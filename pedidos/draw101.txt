@@ -1,0 +1,5 @@
+# Qué versión de draw101 hay que armar y publicar.
+#
+# El primer renglón que no empiece con # es la rama del repo `draw101`.
+# Cambiar este archivo dispara el armado (ver .github/workflows).
+claude/publicar-0.20.18
